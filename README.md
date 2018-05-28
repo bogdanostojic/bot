@@ -1,7 +1,7 @@
-#bot
-Reddit bot sa PRAW bibliotekom
+# Reddit bot with Praw library
 
-create config.py and add the following:
+
+create config.py and add the following information when you create your account and api key:
 ```python
   username = "reddit_username"
   password = "reddit_password"
